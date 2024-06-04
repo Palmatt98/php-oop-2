@@ -1,6 +1,7 @@
 <?php
 
 class Categoria
+
 {
 	private string $icona;
 
